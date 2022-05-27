@@ -1,0 +1,55 @@
+a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 32px;
+	color: #826128;
+	text-decoration: none;
+}
+
+p {
+	font-size: 32px;
+	color: #826128;
+	text-decoration: none;
+}
+
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	width: 0px;
+	height: 0px;
+}
+
+img {
+	border: 0px;
+}
+
+#table1 {
+	width: 800px;
+	border: 0px;
+	text-align: center;
+	border-spacing: 0px;
+	border-collapse: unset;
+}
+
+#table2 {
+	width: 75%;
+	border: 0px;
+	border-spacing: 0px;
+	border-collapse: unset;
+}
+
+#table3 {
+	width: 505px;
+	border: 0px;
+	text-align: center;
+	border-spacing: 0px;
+	border-collapse: unset;
+}
+
+#td1 {
+	vertical-align: top;
+}
+
+.div1 {
+	text-align: center;
+}
